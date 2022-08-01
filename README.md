@@ -24,7 +24,7 @@ The questionnaires are provided as a [SoSciSurvey](https://www.soscisurvey.de/) 
 
 ### Setup Study Machine (Ubuntu Linux)
 
-**Caution**: We recommend that you create a backup of your "~/.thunderbird" and "~/.gnupg" folders before executing anything from this repository. If you are just looking around, it is better to use a virtual machine.
+**Caution**: We recommend that you create a backup of your `~/.thunderbird` and `~/.gnupg` folders before executing anything from this repository. If you are just looking around, it is better to use a virtual machine.
 
 ### Install Dependencies
 
@@ -81,7 +81,7 @@ git clone https://github.com/SecUSo/email-signature-expert-study.git
 cd email-signature-expert-study/FOSDEM
 ```
 
-Now, you need to (rename and) copy "thunderbird_genesis" and "gnupg_genesis" to your home directory, i.e., "~/.thunderbird" and "~/.gnupg". There is a chance that these folders already exist. **Make sure to create a backup** of them and replace them with the "*_genesis" variants. (No commands given here so that a less attentive reader doesn't purge their config by accident :-))
+Now, you need to (rename and) copy "thunderbird_genesis" and "gnupg_genesis" to your home directory, i.e., `~/.thunderbird` and `~/.gnupg`. There is a chance that these folders already exist. **Make sure to create a backup** of them and replace them with the `*_genesis` variants. (No commands given here so that a less attentive reader doesn't purge their config by accident :-))
 
 Now, you should be ready to start the study by executing ...
 

@@ -1,0 +1,86 @@
+Received: from ex03.securepay24.de (129.13.40.10) by
+ ex03.securepay24.de (129.13.40.10) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1847.3
+ via Mailbox Transport; Wed, 30 Jan 2020 17:30:59 +0100
+Received: from ex13.securepay24.de (129.13.40.10) by
+ ex03.securepay24.de (129.13.40.10) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.1847.3; Wed, 30 Jan 2020 17:30:59 +0100
+Received: from mailproxy.securepay24.de (129.13.40.10) by
+ ex13.securepay24.de (129.13.40.10) with Microsoft SMTP Server id
+ 15.1.1847.3 via Frontend Transport; Wed, 30 Jan 2020 17:30:59 +0100
+Received: from mail.securepay24.de (mail.securepay24.de [129.13.40.10])
+	by mailproxy.securepay24.de (Postfix) with ESMTPS id E27C7FF081
+	for <alice@securepay24.de>; Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from mx3.securepay24.de (mx3.securepay24.de [129.13.40.10])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.securepay24.de (Postfix) with ESMTPS id DA012285254
+	for <alice@securepay24.de>; Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from out1.code-audit.org (out1.code-audit.org [185.149.214.8])
+	by mx3.securepay24.de (Postfix) with ESMTPS id A94F6802AF
+	for <alice@securepay24.de>; Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from mx1.code-audit.org (localhost [127.0.0.1])
+	by out1.code-audit.org (Postfix mo-ext) with ESMTP id 47z0ZH4Hzbz8SDJ;
+	Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from out1.code-audit.org (localhost [127.0.0.1])
+	by mx1.code-audit.org (Postfix idis) with ESMTP id 47z0ZH2t1Vz8SBk;
+	Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from mail1.code-audit.org (mail1.code-audit.org [185.149.214.8])
+	by out1.code-audit.org (Postfix mi-int) with ESMTP id 47z0ZH1T5gz8SFd;
+	Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+Received: from [IPv6:1234:5678:1:3456:6543:1234:2875:9739] (dyn-2359374e4c5b.ipv6.code-audit.org [IPv6:1234:5678:1:3456:6543:1234:2875:9739])
+	by mail1.code-audit.org (Postfix) with ESMTPSA id 47z0ZF1JnVzypq;
+	Wed, 30 Jan 2020 17:30:59 +0100 (CET)
+To: alice@securepay24.de
+From: bob@code-audit.org
+Subject: Upcoming Security Audit
+Message-ID: <58b67214-dfee-d98b-b74e-2e04a334b71c@securepay24.de>
+Date: Wed, 30 Jan 2020 17:30:59 +0100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.4.2
+MIME-Version: 1.0
+Content-type: multipart/signed; micalg="pgp-sha256"; protocol="application/pgp-signature"; boundary="===============6149216355271072211=="
+
+--===============6149216355271072211==
+Content-Type: multipart/mixed; boundary="IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5"
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Language: en-US\r
+
+Dear Alice,
+
+as discussed in our last meeting, the security audit is about to start.
+Could you please provide me with access to the source code for your project on github?
+
+My user id is: bob-49
+
+Greetings
+Bob
+
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5--
+
+--===============6149216355271072211==
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachement; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHHBAEBCAAxFiEEqXgSdipfDoDEqs+gTYR37U4ijY4FAl4zBL0THGNlbGluZUBl
+eGFtcGxlLm9yZwAKCRBNhHftTiKNjoQsC/9KEbQhgw3v0/ypn0O5dxan1UIxkQ7E
+gBTLSPKMsgyepXK39WXQq4ymKui7k4roH+2da/JBPUdxXNIL8PZfYbS4QCfiPvQm
+qKhoZZ99q6n9eW4Cq5vHwcvpMCveR5qWm5DSAPcXtk/FWeGX8Dh6LfA6rfvSwRGx
+y1je57wbvNGbBZ3rlgDr1uS2eVOFp5YVniHgcraK4OK5GcK3TlINKHfHL+Eoe5ML
+Lswxs4VbbZVkXOtmnE9WjWyfKzIvB/Jg689UhcZmQhFFYXy+oTfDt3/R43gAFBBC
+146Ek5/CFIMKCqVXItrtY1UGgUPE2wdN5MpOZtlSlmGEopv3oV9eB8A2vE1xY3Yn
+RDNMzV7+taUuPCMTWMZPGRiLNiX2jH3hnvm26QKDR1gQZ+TQb6dGX7szElr3o9ga
+QEyeMrcJYzS+QTXWc7ThE/NvgCEK9ZbTiQv7E6HvKpg+tNSsdNYX/amF3EKKKefa
+sISVIzlP9wjK32q8LqO2sJccRiRn9r8VjEk=
+=nEZ/
+-----END PGP SIGNATURE-----
+
+--===============6149216355271072211==--

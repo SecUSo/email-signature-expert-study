@@ -1,0 +1,20 @@
+Content-Type: multipart/mixed; boundary="IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5"
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Language: en-US\r
+
+Dear Alice,
+
+as discussed in our last meeting, the security audit is about to start.
+Could you please provide me with access to the source code for your project on github?
+
+My user id is: bob-49
+
+Greetings
+Bob
+
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5--
+

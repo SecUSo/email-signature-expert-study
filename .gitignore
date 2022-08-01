@@ -1,0 +1,9 @@
+# Never commit recordings to GitHub
+
+*.mp4
+*.mkv
+*.avi
+*.webm
+*.mpg
+*.mp3
+*.wav

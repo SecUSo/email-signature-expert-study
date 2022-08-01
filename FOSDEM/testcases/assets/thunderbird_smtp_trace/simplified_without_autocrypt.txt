@@ -1,0 +1,44 @@
+To: bob@code-audit.org
+From: Alice <alice@securepay24.de>
+Subject: test
+Message-ID: <58b67214-dfee-d98b-b74e-2e04a334b71c@securepay24.de>
+Date: Thu, 30 Jan 2020 16:10:00 +0100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.4.2
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi
+Content-Type: multipart/mixed; boundary="IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5"
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Language: en-US\r
+
+body
+
+
+--IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5--
+
+--HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEthwsJRImAzBf89wtvjoWRcXZ3bUFAl4y8cgACgkQvjoWRcXZ
+3bUvZggAgq6FUrNEj2Le8udG9YRiLaFuIfEQFLTEiA5v8oo/WEaji2LFI1wTokXV
+io9YLlWGWvxtJtH4K1L9kB3v4mg7gA+KzRudTrEUdcZJAl6tneGR4FahZXvYNxmh
+EHcsy6PYUUzgqVQ8jRWuheqaWeQfcU3jjmmdDtwYvETuUSdiDn8rjlp6JSF0odVI
+wdJrG1h6kGRl0op7cogTXmUoVeUW4fahWqneoZd2g4iTWKAavwthR2oUMfMnMH9w
+e0w3Ojnlc1FETXBFcUTadT9YZ5t9ngXKRKynKUXD8ENXwJucHVW3fCblh+yib5Zu
+8Tg1Io2xZ3DL5SLmBxVjcO0uJnnzwA==
+=/2T7
+-----END PGP SIGNATURE-----
+
+--HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi--

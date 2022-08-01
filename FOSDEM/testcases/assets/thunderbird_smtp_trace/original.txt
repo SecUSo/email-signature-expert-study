@@ -1,0 +1,69 @@
+[smtp] < To: bob@code-audit.org\r
+[smtp] < From: Alice <alice@securepay24.de>\r
+[smtp] < Subject: test\r
+[smtp] < Autocrypt: addr=alice@securepay24.de; keydata=\r
+[smtp] <  mQENBF4y5rABCACs4k4ZDjVq1XjPvmGD6K9h+AEwY7OpCj+EK9AiZBIZ4I0TOyyzTBT3gkiX\r
+[smtp] <  o8JmFEK4bZRutu5TSiya0MEQAp+ZaHS1eUgibYvqIsNfh1fhEkPwAkHfrhOHW+gXa6wi8tAA\r
+[smtp] <  pLmheIvu2Sc7OkEes8kiQ1JDNPv1H9y/0H/Q5d+EZ+/LYpP5CHgsRyj5pWWL4LSUSdUebinW\r
+[smtp] <  opGUSbHRIhKWGZTsmybkOYAHZfh+1Boq2oVL6zrglMO6Ci47+M3+CjQG0CPe5O+C3NGVYjlf\r
+[smtp] <  cHpCfrv0SZyTAqkWFmzQjQDSI3mSENDPjEjcnBrCq1/FzZ4hDuhrnWLHg/AAh3JF3vqPABEB\r
+[smtp] <  AAG0HEFsaWNlIDxhbGljZUBzZWN1cmVwYXkyNC5kZT6JAVQEEwEIAD4WIQS2HCwlEiYDMF/z\r
+[smtp] <  3C2+OhZFxdndtQUCXjLmsAIbAwUJA8JnAAULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRC+\r
+[smtp] <  OhZFxdndtcj7B/0dKAuDe44ksBiyQXkIyuFm0kH6KkskkRfDaNXMYL3oy0fR35tzrIUl1Ca0\r
+[smtp] <  OnoMoTYVrhtbCWmSh6K3F/wAwuMMOEq/p3VUZ4gWsXQM/Z02mcDJ4SK4ns7vNMuxAEi2BKdf\r
+[smtp] <  6rvQsg4Nde3o+hlxVnEkb/X+qouWA8XyLvr4TNM4OrPVGSitDQvZcWEtTRon7MvCh4nQ2y7a\r
+[smtp] <  3aOgXdNijrsjSotnArSx71R4RjPgQUPKSxKkTNNbHBz5/ipQf7NNlqyF3PjRbEaVjlNt02PA\r
+[smtp] <  iKPHxQWO9QYTB+ie/tWPrhNlpo8k0gU+3n7VnTn0+rf1oOAb+nXC61ljZTsKbJldEjb6uQEN\r
+[smtp] <  BF4y5rABCADKwvhGZEwbErQ7c1J4WIJS2yYfeC6e7CetsBm/0IkN35Z4/jyuOKMkaIrmpXNQ\r
+[smtp] <  +661VYr96j/ElZj+mgP+mibKrAOpJoMjy77qAakLmT/G5yxTw3t9/poodqRsQRDlhUaj72uE\r
+[smtp] <  xhVaqQu43r5d30oz7vmnp17WenYZ58rEzKK9cMq93JmhFGUduPAiLLxJXf7wbw56VELfDhwE\r
+[smtp] <  tLjtOuTG21wk2Czvsb2bsJWDl1A8CTIA4WlB6hoykKFlUC5yoxldvuGnGw8A/rj4cHkuzIF/\r
+[smtp] <  h3AYOB6HaUnD7aGZJLQcip97Tv85BAKVFQm0UZZn7Yn0rahTvzaJY9Hqi5rSEaydABEBAAGJ\r
+[smtp] <  ATwEGAEIACYWIQS2HCwlEiYDMF/z3C2+OhZFxdndtQUCXjLmsAIbDAUJA8JnAAAKCRC+OhZF\r
+[smtp] <  xdndtQpkCACDfb8LHngknTW0ADCtR5PIhxJO69b+jtqTB4lFDUnbtSvX+QXEKc5o8LqMQCb4\r
+[smtp] <  TbO/+0ddHOIymXSwkBMaZHMOuWBP51i0+dQnWJ7a/SjdEXFjHtZ0Gv7Wh1k8QlcBS21wec2+\r
+[smtp] <  rhvpxWgEoEcoP0wGlZFDFGjSUd3SFPWWz0oFWgxDX2ZVsRlaS2xX8X+2CA8DDhc6WnX3BFJP\r
+[smtp] <  9W4DSdjZrpnGe9qyOl3oMvW7d0/AtT4uiZ4m8+3C+L6TrcJA13AHJiMNvQXuQOWTD7wcQHPo\r
+[smtp] <  UaMGAu5qwXpGZjsccwQL0Dzfe1BUkwWLVQuOD2amxRZuO9MemC+rGUR4rYQZFKc/\r
+[smtp] < Message-ID: <58b67214-dfee-d98b-b74e-2e04a334b71c@securepay24.de>\r
+[smtp] < Date: Thu, 30 Jan 2020 16:10:00 +0100\r
+[smtp] < User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101\r
+[smtp] <  Thunderbird/68.4.2\r
+[smtp] < MIME-Version: 1.0\r
+[smtp] < Content-Type: multipart/signed; micalg=pgp-sha256;\r
+[smtp] <  protocol="application/pgp-signature";\r
+[smtp] <  boundary="HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi"\r
+[smtp] < \r
+[smtp] < This is an OpenPGP/MIME signed message (RFC 4880 and 3156)\r
+[smtp] < --HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi\r
+[smtp] < Content-Type: multipart/mixed; boundary="IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5"\r
+[smtp] < \r
+[smtp] < --IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5\r
+[smtp] < Content-Type: text/plain; charset=utf-8\r
+[smtp] < Content-Transfer-Encoding: quoted-printable\r
+[smtp] < Content-Language: en-US\r
+[smtp] < \r
+[smtp] < body\r
+[smtp] < \r
+[smtp] < \r
+[smtp] < --IaFEjWhtf2x10KUHfZgvJxhKhlBYR10j5--\r
+[smtp] < \r
+[smtp] < --HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi\r
+[smtp] < Content-Type: application/pgp-signature; name="signature.asc"\r
+[smtp] < Content-Description: OpenPGP digital signature\r
+[smtp] < Content-Disposition: attachment; filename="signature.asc"\r
+[smtp] < \r
+[smtp] < -----BEGIN PGP SIGNATURE-----\r
+[smtp] < \r
+[smtp] < iQEzBAEBCAAdFiEEthwsJRImAzBf89wtvjoWRcXZ3bUFAl4y8cgACgkQvjoWRcXZ\r
+[smtp] < 3bUvZggAgq6FUrNEj2Le8udG9YRiLaFuIfEQFLTEiA5v8oo/WEaji2LFI1wTokXV\r
+[smtp] < io9YLlWGWvxtJtH4K1L9kB3v4mg7gA+KzRudTrEUdcZJAl6tneGR4FahZXvYNxmh\r
+[smtp] < EHcsy6PYUUzgqVQ8jRWuheqaWeQfcU3jjmmdDtwYvETuUSdiDn8rjlp6JSF0odVI\r
+[smtp] < wdJrG1h6kGRl0op7cogTXmUoVeUW4fahWqneoZd2g4iTWKAavwthR2oUMfMnMH9w\r
+[smtp] < e0w3Ojnlc1FETXBFcUTadT9YZ5t9ngXKRKynKUXD8ENXwJucHVW3fCblh+yib5Zu\r
+[smtp] < 8Tg1Io2xZ3DL5SLmBxVjcO0uJnnzwA==\r
+[smtp] < =/2T7\r
+[smtp] < -----END PGP SIGNATURE-----\r
+[smtp] < \r
+[smtp] < --HKDVJGVxvRLCBZ0LJMqmxAZ0cOQOPtjLi--\r
+[smtp] < .\r

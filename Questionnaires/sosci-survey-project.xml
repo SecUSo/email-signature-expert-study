@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2022-08-01 16:31:34" program="oFb" progversion="3.3.13 1325">
+<title>signature-study-copy</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">eng</attr>
+<attr id="projectBackground">scientific</attr>
+</attributes.specific>
+<section>
+<title>
+<![CDATA[Clients und Verfahren (Q1 & Q2)]]>
+</title>
+<attributes.specific program="ofb">
+<attr id="id">CV</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>CnV-business</description>
+<class>mc-matrix</class>
+<title>
+<![CDATA[The following question addresses the BUSINESS context.
+
+Which email clients are you using in combination with which email encryption/signature schemes for BUSINESS emails on a regular basis?]]>
+</title>
+<explanation>Please check below all boxes which apply to you.</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">GPG / PGP</li>
+<li i="2">S/MIME</li>
+<li i="3">I don't use encryption/ signatures with this client</li>
+<li i="4">I don't know if I use encryption/ signatures with this client</li>
+</labels>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't use this client</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.niveau">4</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">default</attr>
+</attributes.specific>
+<item>
+<text>Thunderbird (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Outlook (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>The Bat! (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eM Client (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Postbox (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KMail (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Evolution (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trojitá (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Claws (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mutt (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailMate (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Airmail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>K-9 Mail (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>R2Mail2 (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailDroid (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Roundcube (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Horde/IMP (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailpile (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailfence (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CnV-business-vorOrt</description>
+<class>mc-matrix</class>
+<title>
+<![CDATA[The following question addresses the BUSINESS context.
+
+Which email clients are you using in combination with which email encryption/signature schemes for BUSINESS emails on a regular basis?]]>
+</title>
+<explanation>Please check below all boxes which apply to you.</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">GPG / PGP</li>
+<li i="2">S/MIME</li>
+<li i="3">I don't use encryption/ signatures with this client</li>
+<li i="4">I don't know if I use encryption/ signatures with this client</li>
+</labels>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't use this client</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">2</attr>
+<attr id="scale.niveau">4</attr>
+<attr id="composition">default</attr>
+</attributes.specific>
+<item>
+<text>Thunderbird (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Outlook (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>The Bat! (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eM Client (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Postbox (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KMail (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Evolution (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trojitá (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Claws (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mutt (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailMate (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Airmail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>K-9 Mail (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>R2Mail2 (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailDroid (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Roundcube (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Horde/IMP (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailpile (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailfence (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CnV-private</description>
+<class>mc-matrix</class>
+<title>
+<![CDATA[The following question addresses the PRIVATE context.
+
+Which email clients are you using in combination with which email encryption/signature schemes for PRIVATE emails on a regular basis?]]>
+</title>
+<explanation>Please check below all boxes which apply to you.</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">GPG / PGP</li>
+<li i="2">S/MIME</li>
+<li i="3">I don't use encryption/ signatures with this client</li>
+<li i="4">I don't know if I use encryption/ signatures with this client</li>
+</labels>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't use this client</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">3</attr>
+<attr id="scale.niveau">4</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">default</attr>
+</attributes.specific>
+<item>
+<text>Thunderbird (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Outlook (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>The Bat! (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eM Client (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Postbox (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KMail (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Evolution (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trojitá (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Claws (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mutt (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailMate (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Airmail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>K-9 Mail (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>R2Mail2 (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailDroid (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Roundcube (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Horde/IMP (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailpile (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailfence (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>CnV-private-vorOrt</description>
+<class>mc-matrix</class>
+<title>
+<![CDATA[The following question addresses the PRIVATE context.
+
+Which email clients are you using in combination with which email encryption/signature schemes for PRIVATE emails on a regular basis?]]>
+</title>
+<explanation>Please check below all boxes which apply to you.</explanation>
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">GPG / PGP</li>
+<li i="2">S/MIME</li>
+<li i="3">I don't use encryption/ signatures with this client</li>
+<li i="4">I don't know if I use encryption/ signatures with this client</li>
+</labels>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't use this client</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">4</attr>
+<attr id="scale.niveau">4</attr>
+<attr id="composition">default</attr>
+</attributes.specific>
+<item>
+<text>Thunderbird (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Outlook (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>The Bat! (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eM Client (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Postbox (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KMail (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Evolution (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trojitá (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Claws (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mutt (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailMate (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Airmail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>K-9 Mail (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>R2Mail2 (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailDroid (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Roundcube (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Horde/IMP (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailpile (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailfence (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>business-rating</description>
+<class>ranking</class>
+<title>Please sort how frequently you use the following email clients in descending order (i.e. the most frequently used email client first, etc.).</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Most frequently used</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">5</attr>
+<attr id="alignment">default</attr>
+</attributes.specific>
+<item>
+<text>Thunderbird (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Outlook (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>The Bat! (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eM Client (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Postbox (Windows)</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KMail (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Evolution (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Trojitá (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Claws (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mutt (Linux)</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailMate (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Airmail (macOS)</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>K-9 Mail (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>R2Mail2 (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>MailDroid (Android)</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Roundcube (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Horde/IMP (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailpile (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Mailfence (web client)</text>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Technische Versiertheit</title>
+<attributes.specific program="ofb">
+<attr id="id">TV</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>Nutzungshäufigkeit</description>
+<class>select</class>
+<title>How frequently are you using PGP for email encryption and signatures?</title>
+<explanation>Please choose the option which applies to you the most.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Less than once per year</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per year</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per month</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per week</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per day</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Multiple times per day</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Nutzungshäufigkeit</description>
+<class>select</class>
+<title>How frequently are you using S/MIME for email encryption and signatures?</title>
+<explanation>Please choose the option which applies to you the most.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Less than once per year</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per year</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per month</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per week</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>About once per day</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Multiple times per day</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Tasks</description>
+<class>scale</class>
+<title>Please indicate to what extent the following statements apply to you.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">does absolutely not apply to me</li>
+<li i="5">absolutely applies to me</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">3</attr>
+<attr id="scale.label_align">outside</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I use email encryption and signatures regularly</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I am confident in my ability to use email encryption and signatures (PGP, S/MIME, etc.)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I feel confident in being able to explain how to operate the email encryption and signature scheme I use (PGP, S/MIME, etc.) to others</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>When encountering problems handling encrypted or signed emails I usually know what the problem is</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I believe I would recognize emails with invalid signatures</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Häufigkeit Alt 1 smime</description>
+<class>dropdown</class>
+<title>I handle S/MIME encrypted and signed emails in Thunderbird on average about</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't handle S/MIME encrypted / signed emails</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">4</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|once
+2|twice
+3|three times
+4|four times
+5|five times
+6|more than five times]]>
+</attr>
+</attributes.specific>
+<item>
+<text>once</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>twice</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>three times</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>four times</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>five times</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>more than five times</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Häufigkeit Alt 1 pgp</description>
+<class>dropdown</class>
+<title>I handle PGP encrypted and signed emails in Thunderbird on average about</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't handle PGP encrypted / signed emails</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">5</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|once
+2|twice
+3|three times
+4|four times
+5|five times
+6|more than five times]]>
+</attr>
+</attributes.specific>
+<item>
+<text>once</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>twice</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>three times</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>four times</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>five times</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>more than five times</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Häufigkeit Alt 2 smime</description>
+<class>dropdown</class>
+<title>per</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't handle S/MIME encrypted / signed emails</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">6</attr>
+<attr id="number">no</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|hour
+2|day
+3|week
+4|month
+5|year]]>
+</attr>
+</attributes.specific>
+<item>
+<text>hour</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>day</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>week</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>month</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>year</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Häufigkeit Alt 2 pgp</description>
+<class>dropdown</class>
+<title>per</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<residualOptions>
+<li i="0">I don't handle PGP encrypted / signed emails</li>
+</residualOptions>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">7</attr>
+<attr id="number">no</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|hour
+2|day
+3|week
+4|month
+5|year]]>
+</attr>
+</attributes.specific>
+<item>
+<text>hour</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>day</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>week</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>month</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>year</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Häufigkeit Alt Select</description>
+<class>select</class>
+<title>Do you handle encrypted and signed emails on a regular basis?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">8</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="gpg">
+<value id="pg">endjump</value>
+</effect>
+</filter>
+<item>
+<text>yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>no</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Scales</title>
+<attributes.specific program="ofb">
+<attr id="id">S0</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<question>
+<description>rsebis</description>
+<class>scale</class>
+<title>To what extent do following statements apply to you?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Never</li>
+<li i="5">Always</li>
+</labels>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I set my computer screen to automatically lock if I don't use it for a prolonged period of time.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I use a password/passcode to unlock my laptop or tablet.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I manually lock my computer screen when I step away from it.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I use a PIN or passcode to unlock my mobile phone.</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I change my passwords even if it is not needed.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I use different passwords for different accounts that I have.</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>When I create a new online account, I try to use a password that goes beyond the site's minimum requirements.</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I include special characters in my password even if it's not required.</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>When someone sends me a link, I open it only after verifying where it goes.</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I know what website I'm visiting by looking at the URL bar, rather than by the website's look and feel.</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I verify that information will be sent securely (e.g., SSL, "https://", a lock icon) before I submit it to websites.</text>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+</item>
+<item>
+<text>When browsing websites, I mouseover links to see where they go, before clicking them.</text>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+</item>
+<item>
+<text>If I discover a security problem, I fix or report it rather than assuming somebody else will.</text>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+</item>
+<item>
+<text>When I'm prompted about a software update, I install it right away.</text>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I try to make sure that the programs I use are up-to- date.</text>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I verify that my anti-virus software has been regularly updating itself.</text>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>sa6</description>
+<class>scale</class>
+<title>On a scale of "Strongly Disagree" to "Strongly Agree", rate your level of agreement with the following statements.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Strongly Disagree</li>
+<li i="5">Strongly Agree</li>
+</labels>
+<order>random</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I seek out opportunities to learn about security measures that are relevant to me.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I am extremely motivated to take all the steps needed to keep my online data and accounts safe.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Generally, I diligently follow a routine about security practices.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I often am interested in articles about security threats.</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I always pay attention to experts' advice about the steps I need to take to keep my online data and accounts safe.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I am extremely knowledgeable about all the steps needed to keep my online data and accounts safe.</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Vorgehen</title>
+<attributes.specific program="ofb">
+<attr id="id">BV</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<question>
+<description>Vorgehen Alltag</description>
+<class>text</class>
+<title>Please describe how you usually check if an email you received is legitimate or was sent by a scammer.</title>
+<explanation>Please do not include any sensitive information about other people in your answer.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Vorgehen Risk</description>
+<class>text</class>
+<title>Are there any additional checks you would perform on all incoming emails if you knew you were at risk of being specifically targeted?</title>
+<explanation>Please do not include any sensitive information about other people in your answer.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Zeit Alltag</description>
+<class>text</class>
+<title>How much time do you usually spend on such a check?</title>
+<explanation>Please do not include any sensitive information about other people in your answer.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Zeit Risk</description>
+<class>text</class>
+<title>How much time would you usually spend on a check in such a situation?</title>
+<explanation>Please do not include any sensitive information about other people in your answer.</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Screenshots</title>
+<attributes.specific program="ofb">
+<attr id="id">SC</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<question>
+<description>Screenshot Client</description>
+<class>dropdown</class>
+<title>Von welchem Client sieht der Proband Screenshots?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">default</attr>
+</attributes.specific>
+<item>
+<text>Outlook</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Thunderbird</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Apple Mail</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot Verfahren</description>
+<class>dropdown</class>
+<title>Welches Verfahren kommt auf den Screenshots die der Proband sieht zum Einsatz?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>PGP</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>S/MIME</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 1</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 1</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 2</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 2</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 3</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 3</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 4</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 4</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 5</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 5</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 6</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 6</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 7</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 7</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 8</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 8</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 9</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 9</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Screenshot 10</description>
+<class>text</class>
+<title>Aufzeichnungen für Screenshot 10</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+<item>
+<text>Welchen Screenshot hat der Proband gesehen?</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Vorgehen des Probanden: was er sagt, worüber er nachdenkt, etc.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="height">200</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>ScreenshotGeneric</description>
+<class>select</class>
+<title>Is the signature of the previously inspected email legitimate?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="shading">none</attr>
+</attributes.specific>
+<item>
+<text>Yes, the signature is legitimate</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No, the signature is not legitimate</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>emailExplanation</description>
+<class>text</class>
+<title>Is there anything else you want to tell us with respect to the email you saw?</title>
+<explanation>Note here e.g. if you have closed the windows prematurely (i.e. before finishing inspecting the email).</explanation>
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height">100</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Interne Variablen</title>
+<attributes.specific program="ofb">
+<attr id="id">IV</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<question>
+<description>Participant</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<item>
+<text>ID</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Email</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text>ID</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Order</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Consent</description>
+<class>checkbox</class>
+<title>Please check the box below to indicate your agreement to participate in the study.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="number">no</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I am at least 18 years old and agree to participate in the study under the conditions as stated above.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>verfahren</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text>scheme</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>PreviousStudy</description>
+<class>select</class>
+<title>Have you participated in a study on email encryption and signatures at either the Chaos Communication Camp 2019 or the Chaos Communication Congress 2019?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="shading">none</attr>
+</attributes.specific>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<textelement>
+<type>default</type>
+<content>
+<![CDATA[<p>Dear participant,<br><br>
+
+thank you for taking part in this study! Your participation will take only about 20-30 minutes of your time, but will help us tremendously in understanding the usage of email encryption and 
+signatures.<br><br>
+We are researchers from the University of Applied  Science Münster and Karlsruhe Institute of Technology. Our goal in this  study is to investigate the usage and perception of e-mail encryption and signatures. This study comprises the following steps:</p><p>
+
+</p><ol><li>Informed consent (this page)<br></li><li>Instructions and introductory questions</li><li>Assessment of eight (8) emails regarding their signatures' legitimacy</li><li>Closing questionnaire</li></ol><p>
+
+
+</p><p>We will ask you to vocalize your thoughts while looking at the emails. In order to get a better understanding of your perceptions of the emails, both, your voice and your interaction on the screen will be recorded. The basis for the collection and analysis of the data is our data privacy policy [<a href="https://wiki.secuso.org/external-assets/email-study/PrivacyPolicy_DE.pdf">DE</a>/<a href="https://wiki.secuso.org/external-assets/email-study/PrivacyPolicy_EN.pdf">EN</a>].<br></p><p>Your participation is voluntary. If you wish to withdraw your participation before, during or after the completion of the survey, you can do so. If withdrawing, all data recorded up until 
+this point will be discarded and deleted. For withdrawal from the survey once you have completed it, you will need to provide the participant code that you see below. Please write it down on the piece of paper provided to you.</p>]]>
+</content>
+<label>congress-welcome</label>
+<align>default</align>
+<attributes.specific program="ofb">
+<attr id="vsStamp">1286</attr>
+</attributes.specific>
+</textelement>
+<textelement>
+<type>default</type>
+<content>
+<![CDATA[<p></p><p>Dear participant, thank you for agreeing to participate in this study! To complete this study, you have to progress through four parts which are described in the following. <br></p><p><b>Note:</b> Throughout the study, you will be asked to close program windows in mutiple instances. This is an essential part of the study and represents having completed the respective task. Therefore, be sure to close the program windows only, once you have completed the respective task. In particular, when answering questionnaires only close the windows, once the questionnaire instructs you to do so or your answers might be lost.</p><p><b>Part 1: Informed consent and explanation</b><br>This part is the one you currently see. It comprised your agreement to participate in this study (previous page) and explains the tasks comprised in this study (this page). <br></p><p><b>Part 2: Introductory questionnaire</b><br>In this part, the task is to fill a questionnaire with questions about your usage of email encryption and signatures as well as questions regarding your IT background.<br><br><b>Part 3: Assessment of eight emails regarding their signature's legitimacy</b><br>This part comprises the tasks of rating the legitimacy of the signatures of eight emails. Each rating task encompasses the following two steps:</p><ol><li>Each email will be opened in a dedicated Thunderbird window, allowing you to check the legitimacy of the signature. Once you have decided whether or not the signature is legitimate, you will have to close the Thunderbird window. <br></li><li>Once the Thunderbird window is closed, a short questionnaire in which you have to indicate whether the signature is legitimate or not will be opened automatically. Having completed the questionnaire for the respective email, you will be instructed to close the respective browser window in order to advance to the next email. However, after completing the questionnaire of the 8th (last) email, you will automatically continue with part 4 of the study, without the need to close the window.<br></li></ol><p>These two steps are repeated for each of the eight emails. Note that each email should be rated in isolation, i.e. the emails do not reference each other and should be rated on its own.<br></p><p>In 
+order to get a better understanding of your perceptions of the emails, we will ask you to vocalize your thoughts and to explain your actions while looking at the emails. Talk out loud constantly, telling everything you are thinking beginning 
+from the moment you see the first email up to the point when you have 
+made your decision regarding the legitimacy of the last of the emails. 
+Please try to not plan out what you are going to say and do not try to 
+explain your thoughts. Just act as if you were alone in the room and 
+talking to yourself. Your voice and your interaction on the screen will be recorded. The recording of the screen and your voice will start automatically at the beginning of this part.<br></p><p><b>Part 4: Closing questionnaire</b><br>This part comprises a final questionnaire.<br></p><p><br>This procedure with all four parts is illustrated in the following:<br></p><p><br></p><p><img src="https://wiki.secuso.org/external-assets/email-study/partcipant-procedure.png" width="800"><br></p><p><br></p><p>Please click "Next" to continue with the study.</p><p></p>]]>
+</content>
+<label>instructions</label>
+<align>default</align>
+<attributes.specific program="ofb">
+<attr id="vsStamp">1287</attr>
+</attributes.specific>
+</textelement>
+<textelement>
+<type>default</type>
+<content>
+<![CDATA[<p>For this part of the study, please assume the following:</p>
+<ul>
+<li>You are Alice, a software developer at SecurePay24.</li>
+<li>Your email address is <i>alice@securepay24.de</i>.</li>
+<li>Your company has authorised an external security audit of the software you are currently working on.</li>
+<li>The security audit is performed by Code Audit Inc.</li>
+<li>You know Bob, the contact person at Code Audit Inc., from a conference call meeting.</li>
+<li>Bob's email address is <i>bob@code-audit.org</i>.</li><li>You have exchanged keys with Bob, i.e. you have his public key in your keychain.<br></li>
+</ul>
+<p>Please click "Next" to continue with the study.</p>]]>
+</content>
+<label>Scenario</label>
+<align>default</align>
+<attributes.specific program="ofb">
+<attr id="vsStamp">1287</attr>
+</attributes.specific>
+</textelement>
+<textelement>
+<type>default</type>
+<content>
+<![CDATA[<p>Dear participant,<br><br>thank you for taking part in this online survey! Your participation will take only about 5-10 minutes, but help us tremendously in understanding the usage of email encryption and signatures.<br><br>We are researchers from the University of Applied Science Münster and Karlsruhe Institute of Technology. Our goal in this study is to investigate which email clients as well as which types of email encryption and signatures are used in the wild and how people use these clients. Even if you are not using email encryption or signatures your participation helps us out!<br><br>Dropping out of the survey is possible at any time. If dropping out, all data entered by you up until this point will be discarded and deleted. The data collected in the course of this survey will be stored and analysed in anonymised form. No personal information is collected or stored.</p><p>By clicking "Start Survey" you indicate that you are at least 18 years old and agree to participating in the survey under the conditions as stated above.<br></p>]]>
+</content>
+<label>welcome-consent</label>
+<align>default</align>
+<attributes.specific program="ofb">
+<attr id="vsStamp">1286</attr>
+</attributes.specific>
+</textelement>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="eng"><![CDATA[<a href="mailto:kontakt@secuso.org">Prof. Dr. Melanie Volkamer</a>, 
+Karlsruher Institut für Technologie – 2019]]></txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Questionnaire used in pre-study 1</title>
+<attributes.specific program="ofb">
+<attr id="id">camp</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Seite 1 --&gt;
+&lt;page ident=&quot;consent&quot; intID=&quot;1&quot;&gt;
+&lt;text id=&quot;welcome-consent&quot; intID=&quot;2&quot;&gt;
+	&lt;spacing&gt;default&lt;/spacing&gt;
+&lt;/text&gt;
+&lt;php intID=&quot;3&quot;&gt;&lt;![CDATA[
+buttonHide();
+
+html(
+  '&lt;div style=&quot;text-align: center; margin: 2em 0&quot;&gt;'.
+  buttonToPage('start', 'Start Survey').
+  '&lt;/div&gt;'
+);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 2 --&gt;
+&lt;page ident=&quot;start&quot; intID=&quot;7&quot;&gt;
+&lt;php intID=&quot;8&quot;&gt;
+/* Intentionally left blank */
+&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 3 --&gt;
+&lt;page intID=&quot;17&quot;&gt;
+&lt;question id=&quot;BV01&quot; intID=&quot;18&quot; /&gt;
+&lt;question id=&quot;BV03&quot; intID=&quot;19&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 4 --&gt;
+&lt;page intID=&quot;20&quot;&gt;
+&lt;question id=&quot;BV02&quot; intID=&quot;21&quot; /&gt;
+&lt;question id=&quot;BV04&quot; intID=&quot;22&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 5 --&gt;
+&lt;page ident=&quot;versiert&quot; intID=&quot;10&quot;&gt;
+&lt;question id=&quot;TV02&quot; intID=&quot;12&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 6 --&gt;
+&lt;page ident=&quot;select&quot; intID=&quot;13&quot;&gt;
+&lt;question id=&quot;TV05&quot; intID=&quot;14&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 7 --&gt;
+&lt;page ident=&quot;haeufigkeit&quot; intID=&quot;23&quot;&gt;
+&lt;question id=&quot;TV03&quot; intID=&quot;15&quot; /&gt;
+&lt;question id=&quot;TV04&quot; intID=&quot;24&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 8 --&gt;
+&lt;page intID=&quot;25&quot;&gt;
+&lt;question id=&quot;TV07&quot; intID=&quot;26&quot; /&gt;
+&lt;question id=&quot;TV08&quot; intID=&quot;27&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 9 --&gt;
+&lt;page ident=&quot;business&quot; intID=&quot;4&quot;&gt;
+&lt;question id=&quot;CV01&quot; intID=&quot;5&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 10 --&gt;
+&lt;page ident=&quot;private&quot; intID=&quot;6&quot;&gt;
+&lt;question id=&quot;CV02&quot; intID=&quot;9&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 11 --&gt;
+&lt;page ident=&quot;endjump&quot; intID=&quot;11&quot;&gt;
+&lt;php intID=&quot;16&quot;&gt;
+/* Intentionally left blank */
+&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Thank you for completing this survey!</h1>
+
+<p>We would like to thank you again very much for helping us.</p>
+
+<!-- Insert information on the study or a contact option here -->
+
+<p> If you are interested in helping us out even further, we would be happy to receive your email at <a href="mailto:poddebniak@fh-muenster.de">poddebniak@fh-muenster.de</a>.
+</p>
+
+<p>Your answers were transmitted, you may close the browser window or tab now.</p>
+
+<!-- Additional spacing (remove or adjust as required)  -->
+<div style="padding-bottom: 120px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<questionnaire>
+<title>Informed Consent</title>
+<attributes.specific program="ofb">
+<attr id="id">Congress-Consent</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page intID=&quot;1&quot;&gt;
+&lt;text id=&quot;congress-welcome&quot; intID=&quot;2&quot;&gt;
+	&lt;spacing&gt;default&lt;/spacing&gt;
+&lt;/text&gt;
+&lt;php intID=&quot;3&quot;&gt;&lt;![CDATA[
+$participantID = readGET('pid');
+put('IV01_01', $participantID);
+html(&quot;&lt;p&gt;&lt;br&gt;Participant code: &lt;u&gt;$participantID&lt;/u&gt;&lt;/p&gt;&quot;);
+html(&quot;&lt;br&gt;&quot;);
+
+$emailOrder = readGET('eorder');
+put('IV02_02', $emailOrder);
+
+$scheme = readGET('scheme');
+put('IV04_01', $scheme);
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;IV03&quot; intID=&quot;6&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page ident=&quot;instrctions&quot; intID=&quot;4&quot;&gt;
+&lt;text id=&quot;instructions&quot; intID=&quot;5&quot;&gt;
+	&lt;spacing&gt;default&lt;/spacing&gt;
+&lt;/text&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Please close this browser window now in order to proceed to part 2 (introductory questionnaire).</h1>]]>
+</attr>
+<attr id="panelForm">no</attr>
+<attr id="selection">0</attr>
+<attr id="resume">never</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<questionnaire>
+<title>Questions per Email (except last)</title>
+<attributes.specific program="ofb">
+<attr id="id">Congress-Emails</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page intID=&quot;1&quot;&gt;
+&lt;php intID=&quot;2&quot;&gt;&lt;![CDATA[
+$participantID = readGET('pid');
+put('IV01_01', $participantID);
+
+$emailID = readGET('eid');
+put('IV02_01', $emailID);
+
+$mailnr = readGET('mailnr');
+registerVariable($mailnr);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page intID=&quot;3&quot;&gt;
+&lt;info&gt;Legitimacy of Email&lt;/info&gt;
+&lt;php intID=&quot;6&quot;&gt;&lt;![CDATA[
+html('
+    &lt;center&gt;
+    &lt;p&gt;&lt;b&gt;You are rating email ' . ($mailnr+1) . ' of 8.&lt;/b&gt;&lt;/p&gt;
+    &lt;progress value=&quot;' . ($mailnr+1) . '&quot; max=&quot;8&quot;&gt;&lt;/progress&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;/center&gt;
+');
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;SC13&quot; intID=&quot;4&quot; /&gt;
+&lt;question id=&quot;SC14&quot; intID=&quot;5&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<p>In the next step of this study you will see another email opened in Thunderbird. Inspect it to determine whether its signature is legitimate or not. After having inspected the email, please close the Thunderbird window to proceed with the study. Remember: all emails are independent of each other and should be rated in isolation.</p>
+
+<p>Please close now this browser window to proceed to the email.</p>]]>
+</attr>
+<attr id="panelForm">no</attr>
+<attr id="selection">0</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<questionnaire>
+<title>
+<![CDATA[Last Email & Post-Questions]]>
+</title>
+<attributes.specific program="ofb">
+<attr id="id">Congress-PostQuestions</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page intID=&quot;1&quot;&gt;
+&lt;php intID=&quot;2&quot;&gt;&lt;![CDATA[
+$participantID = readGET('pid');
+put('IV01_01', $participantID);
+
+$emailID = readGET('eid');
+put('IV02_01', $emailID);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page intID=&quot;3&quot;&gt;
+&lt;php intID=&quot;12&quot;&gt;&lt;![CDATA[
+$mailnr = 7;
+html('
+    &lt;center&gt;
+    &lt;p&gt;&lt;b&gt;You are rating email ' . ($mailnr+1) . ' of 8.&lt;/b&gt;&lt;/p&gt;
+    &lt;progress value=&quot;' . ($mailnr+1) . '&quot; max=&quot;8&quot;&gt;&lt;/progress&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    &lt;/center&gt;
+');
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;SC13&quot; intID=&quot;4&quot; /&gt;
+&lt;question id=&quot;SC14&quot; intID=&quot;11&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 3 --&gt;
+&lt;page intID=&quot;9&quot;&gt;
+&lt;html intID=&quot;10&quot;&gt;&lt;![CDATA[
+&lt;center&gt;
+&lt;h1&gt;Part 4: Closing questionnaire&lt;/h1&gt;
+&lt;p&gt;Please click &quot;Next&quot; to continue with the study.&lt;/p&gt;
+&lt;/center&gt;
+]]&gt;&lt;/html&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 4 --&gt;
+&lt;page ident=&quot;sa6&quot; intID=&quot;5&quot;&gt;
+&lt;question id=&quot;S002&quot; intID=&quot;7&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 5 --&gt;
+&lt;page ident=&quot;rsebis&quot; intID=&quot;6&quot;&gt;
+&lt;question id=&quot;S001&quot; intID=&quot;8&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<center>
+<h1>Thank you for participating in this study!</h1>
+<p>The study is now finished, please contact the experimenter to receive a debriefing and ask any potential questions you might have.</p>
+</center>]]>
+</attr>
+<attr id="panelForm">no</attr>
+<attr id="selection">0</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<questionnaire>
+<title>Questions before assessing emails</title>
+<attributes.specific program="ofb">
+<attr id="id">Congress-PreQuestions</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Page 1 --&gt;
+&lt;page intID=&quot;1&quot;&gt;
+&lt;html intID=&quot;3&quot;&gt;&lt;![CDATA[
+&lt;center&gt;
+&lt;h1&gt;Part 2: Introductory questionnaire&lt;/h1&gt;
+&lt;p&gt;Please click &quot;Next&quot; to continue with the study.&lt;/p&gt;
+&lt;/center&gt;
+]]&gt;&lt;/html&gt;
+&lt;php intID=&quot;2&quot;&gt;&lt;![CDATA[
+$participantID = readGET('pid');
+put('IV01_01', $participantID);
+
+$scheme = readGET('scheme');
+registerVariable($scheme);
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 2 --&gt;
+&lt;page intID=&quot;12&quot;&gt;
+&lt;question id=&quot;IV05&quot; intID=&quot;13&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 3 --&gt;
+&lt;page intID=&quot;7&quot;&gt;
+&lt;info&gt;Vorgehen&lt;/info&gt;
+&lt;question id=&quot;BV01&quot; intID=&quot;8&quot; /&gt;
+&lt;question id=&quot;BV02&quot; intID=&quot;9&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 4 --&gt;
+&lt;page intID=&quot;10&quot;&gt;
+&lt;question id=&quot;TV02&quot; intID=&quot;11&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 5 --&gt;
+&lt;page intID=&quot;19&quot;&gt;
+&lt;php intID=&quot;21&quot;&gt;&lt;![CDATA[
+//if ($scheme === &quot;openpgp&quot;) {
+    // PGP questions
+    question('TV07');
+    question('TV08');
+//} else {
+    // SMIME questions
+//    question('TV03');
+//    question('TV04');
+//}
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 6 --&gt;
+&lt;page ident=&quot;part3&quot; intID=&quot;4&quot;&gt;
+&lt;html intID=&quot;5&quot;&gt;&lt;![CDATA[
+&lt;center&gt;
+&lt;h1&gt;Part 3: Assessment of eight emails regarding their signature's legitimacy&lt;/h1&gt;
+&lt;p&gt;Please click &quot;Next&quot; to continue with the study.&lt;/p&gt;
+&lt;/center&gt;
+]]&gt;&lt;/html&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Page 7 --&gt;
+&lt;page intID=&quot;6&quot;&gt;
+&lt;info&gt;Persona&lt;/info&gt;
+&lt;text id=&quot;Scenario&quot; intID=&quot;18&quot;&gt;
+	&lt;spacing&gt;default&lt;/spacing&gt;
+&lt;/text&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<p>In the next step of this study you will see an email opened in Thunderbird. Inspect it to determine whether its signature is legitimate or not. After having inspected the email, please close the Thunderbird window to proceed with the study. Remember: all emails are independent of each other and should be rated in isolation.</p>
+
+<p>In this part of the study, please vocalize your thoughts and explain your actions while looking at the emails. Talk out loud constantly telling everything you are thinking, beginning from the moment you see the first email up to the point when you have made your decision regarding the legitimacy of the last of the emails. Please try to not plan out what you are going to say and do not try to explain your thoughts. Just act as if you were alone in the room and talking to yourself.</p>
+
+<p>Please close this browser window now to proceed to the email. This will also start the recording of your voice and the interaction on screen.</p>]]>
+</attr>
+<attr id="panelForm">no</attr>
+<attr id="selection">0</attr>
+<attr id="resume">always</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<setting name="DataFilter" key="df" encoding="json">
+{"started.first":"","started.last":"","lastdata.first":"","lastdata.last":"","dfStatus":1}</setting>
+</surveyProject>
